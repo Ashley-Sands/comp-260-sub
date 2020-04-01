@@ -2,7 +2,7 @@
 https://github.com/Ashley-Sands/comp-260-sub/blob/master/README.md
 
 ## Vedio
-TBA
+https://drive.google.com/open?id=1NRLQBotMqQ8L9yeuuKgxFuDLuJ6rpz30
 
 ## Poster
 https://github.com/Ashley-Sands/Comp-260/blob/master/Server_UML.pdf  
