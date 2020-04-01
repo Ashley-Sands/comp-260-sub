@@ -1,7 +1,8 @@
 # Comp-260
+https://github.com/Ashley-Sands/comp-260-sub/blob/master/README.md
 
 ## Vedio
-
+TBA
 
 ## Worksheets
 ###### 1 (Chat Client)
